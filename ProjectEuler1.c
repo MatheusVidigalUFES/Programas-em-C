@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Problema: Multiplos de 3 e de 5
 main()
 {
    int num,i,j=0;
