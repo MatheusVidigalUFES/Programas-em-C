@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Even Fibonacci Numbers - Project Euler Problem 2
 main() {
    int s1=1,s2=2,s3,num, sum=0, n;
    printf("Introduza um inteiro: ");
