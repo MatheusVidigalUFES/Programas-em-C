@@ -20,3 +20,5 @@ def maior_fator_num(num):
                 lista_divisor_num.append(i)
     return max(lista_divisor_num)
 
+num = int(input("Digite um número: "))
+print(maior_fator_num(num))
